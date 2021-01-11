@@ -14,10 +14,10 @@ function Contato() {
         <div className="sociais">
         <h3>Siga-nos</h3>
         <br></br>
-        <button className="facebook-btn"><i className="fab fa-facebook"></i>Facebook Mercadex</button>
+       <i className="fab fa-facebook"></i> Facebook Mercadex
         
         <br></br>
-        <button className="instagram-btn"><i className="fab fa-instagram"></i> Instagram Mercadex</button>
+        <i className="fab fa-instagram"></i> Instagram Mercadex
        
 
 
